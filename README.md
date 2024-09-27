@@ -14,5 +14,5 @@ LIbraries:
 -Model Evaluation
 *Contact*
 Your Name: Lekhasri A - lekhaarul19@gmail.com
-Project Link: 
+Project Link:https://github.com/Lekhasre/Heart_disease_prediction.git 
 
