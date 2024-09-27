@@ -1,6 +1,6 @@
-*Introduction*\n
+*Introduction:*
 Heart Disease Prediction Project
-*Description*
+*Description:*
 This project aims to predict if a patient has heart disease or not using machine learning algorithm. By analyzing various medical attributes, the model assists in early detection and preventive healthcare.
 *Technologies Used*
 programming Language: Pyhton
@@ -12,7 +12,7 @@ LIbraries:
 -Data Preprocessing
 -Model Selection
 -Model Evaluation
-*Contact*
+*Contact:*
 Your Name: Lekhasri A - lekhaarul19@gmail.com
 Project Link:https://github.com/Lekhasre/Heart_disease_prediction.git 
 
